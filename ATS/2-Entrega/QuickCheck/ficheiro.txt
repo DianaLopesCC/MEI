@@ -1,0 +1,1400 @@
+registar cliente "IgelceminaSantos@hotmail.com" "Igelcemina Santos" "S7cyJnxU" "Rua da Lapa, 213, 3510-860 Torredeita" 2013-10-20 (42.3, 79.1) ;
+registar condutor "LuziaLeal@outlook.com" "Luzia Leal" "vWtiH9Fn" "Rua Doutor Adelino Junior Mendes Abreu, 2232, 3400-136 Oliveira do Hospital" 2013-10-12 47 ;
+registar condutor "GildoMachado@mail.google" "Gildo Machado" "HQ6sO3Mi" "Rua de Agrelos, 2269, 4625-556 Sao Lourenco do Douro" 1990-02-26 12"Crazy Drivers"  ;
+registar empresa "Crazy Drivers" "sinN4Wci" ;
+registar carrinha "45-DP-10" 27 "LuziaLeal@outlook.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (92.2, 54.2);
+logout ;
+
+login "LuziaLeal@outlook.com"  "vWtiH9Fn" ;
+viajar ;
+logout ;
+
+
+registar cliente "OliviaHenriques@outlook.com" "Olivia Henriques" "HVH1pXSa" ", 1228, 6160-125 Rebisca" 2014-07-13 (36.8, 15.5) ;
+registar condutor "FaniaMarques@outlook.com" "Fania Marques" "V8tC9Ocn" "Beco da Praia, 2292, 2825-881 Trafaria" 2008-02-28 82 ;
+registar condutor "IgnezSa@outlook.com" "Ignez Sa" "sAlHdipl" ", 277, 3600-523 Mosteiro" 2003-05-27 24"On Time"  ;
+registar empresa "On Time" "aQgjtZl4" ;
+registar carrinha "45-DP-10" 26 "LuziaLeal@outlook.com"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (88.8, 21.3);
+logout ;
+
+login "FaniaMarques@outlook.com"  "V8tC9Ocn" ;
+viajar ;
+logout ;
+
+
+registar cliente "GirelAssuncao@mail.google" "Girel Assuncao" "f9HZeE8s" "Travessa Circular de Gougeva, 2341, 4415-802 Sandim" 2001-09-17 (69.8, 31.7) ;
+registar condutor "GislenaSimoes@mail.google" "Gislena Simoes" "XBc1jjf4" "Travessa Dom Joao de Castro, 2104, 1300-186 Lisboa" 2011-05-04 48 ;
+registar condutor "BenitaAbreu@sapo.pt" "Benita Abreu" "4J1NIgmn" "Rua Oliveira Matos, 1626, 3000-305 Coimbra" 2009-08-02 86"Baby Driver"  ;
+registar empresa "Mad Drivers" "KlC7fzWo" ;
+registar mota "43-FT-19" 9 "FaniaMarques@outlook.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (22.1, 79.6);
+logout ;
+
+login "FaniaMarques@outlook.com"  "V8tC9Ocn" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "EvaCosta@outlook.com" "Eva Costa" "zNnFyveH" "Rua das Oficinas, 183, 7500-220 Vila Nova de Santo Andre" 2007-06-01 (58.1, 24.1) ;
+registar condutor "CarminaAlves@mail.google" "Carmina Alves" "LaKyME8e" "Rua da Quinta de Galamares, 1993, 2710-236 Galamares" 2001-11-20 88 ;
+registar condutor "JabesBranco@hotmail.com" "Jabes Branco" "NTRbhUJu" "Travessa da Ponte Velha, 2159, 4560-173 Irivo" 2009-01-11 46"Baby Driver"  ;
+registar empresa "Taxistas" "r8Oh42AW" ;
+registar mota "43-FT-19" 23 "LuziaLeal@outlook.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (45.7, 25.6);
+logout ;
+
+login "GislenaSimoes@mail.google"  "XBc1jjf4" ;
+viajar ;
+logout ;
+
+
+registar cliente "AristotelesFigueiredo@outlook.com" "Aristoteles Figueiredo" "4GZmT7ar" "Rua Direita, 644, 6250-111 Caria" 2005-01-05 (30.1, 25.6) ;
+registar condutor "GraciosaMoreira@sapo.pt" "Graciosa Moreira" "dlM2ovE8" "Travessa Nova da Boavista, 1683, 4415-564 Sermonde" 2003-12-13 100 ;
+registar condutor "MerrelhoAbreu@hotmail.com" "Merrelho Abreu" "IYUmcn2z" "Travessa de Redemoinhos, 1852, 4815-343 Moreira de Conegos" 1996-08-23 12"Taxis VS Ubers"  ;
+registar empresa "Time" "WbualDRD" ;
+registar helicoptero "67-XK-33" 95 "FaniaMarques@outlook.com"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (23.9, 57.7);
+logout ;
+
+login "FaniaMarques@outlook.com"  "V8tC9Ocn" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "SilvianaGuerreiro@gmail.com" "Silviana Guerreiro" "fH8w1JOS" "Praca Dario Marques, 367, 4745-122 Alvarelhos" 2000-05-05 (93.7, 29.0) ;
+registar condutor "ederValente@outlook.com" "eder Valente" "LJHV0wDd" ", 1522, 7570-433 Cardela do Meio" 2012-01-09 0 ;
+registar condutor "IbericoAssuncao@mail.google" "Iberico Assuncao" "YvpJqx8K" "Rua do Espinheiro, 1295, 4635-475 Tabuado" 2007-01-20 73"Fast N Furious"  ;
+registar empresa "UMer" "B5z5Cj8l" ;
+registar carrinha "45-DP-10" 68 "FaniaMarques@outlook.com"  ;
+login "GirelAssuncao@mail.google"  "f9HZeE8s" ;
+solicitar (5.6, 33.4);
+logout ;
+
+login "ederValente@outlook.com"  "LJHV0wDd" ;
+viajar ;
+logout ;
+
+
+registar cliente "OrianaRibeiro@mail.google" "Oriana Ribeiro" "jQIZVvvf" "Largo do Coreto, 686, 7500-110 Vila Nova de Santo Andre" 1993-04-06 (20.7, 78.1) ;
+registar condutor "TassoPinto@sapo.pt" "Tasso Pinto" "5uN2jY5S" "Rua do Monte Rodrigo, 2441, 3620-041 Alvite" 2010-08-11 6 ;
+registar condutor "BrasFerreira@hotmail.com" "Bras Ferreira" "RwS0NqaB" "Quinta da Corneira, 682, 3400-574 Penalva de Alva" 1998-03-20 35"Mad Drivers"  ;
+registar empresa "GeTit" "UA8OwVDd" ;
+registar carro "67-XK-33" 14 "FaniaMarques@outlook.com"  ;
+login "OrianaRibeiro@mail.google"  "jQIZVvvf" ;
+solicitar (96.9, 44.6);
+logout ;
+
+login "GraciosaMoreira@sapo.pt"  "dlM2ovE8" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "SamantaCosta@hotmail.com" "Samanta Costa" "G7BAjFLX" "Rua dos Frades, 1000, 7470-252 Sousel" 2008-11-17 (43.1, 11.0) ;
+registar condutor "AngeloLourenco@hotmail.com" "Angelo Lourenco" "Kc97yVcZ" "Rua Doutora Eulalia Marques, 1107, 2005-309 Grainho" 2002-05-23 87 ;
+registar condutor "EloiSantos@sapo.pt" "Eloi Santos" "oIo9vCef" "Estrada Nacional 114-2, 1684, 2070-687 Vila Cha de Ourique" 1999-05-17 84"UMer"  ;
+registar empresa "Lift" "FT8bnDt4" ;
+registar mota "23-PM-45" 34 "FaniaMarques@outlook.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (60.2, 89.8);
+logout ;
+
+login "GraciosaMoreira@sapo.pt"  "dlM2ovE8" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "MarcosPinheiro@sapo.pt" "Marcos Pinheiro" "G7pdRWlX" "Caminho Alegria, 1072, 9020-065 Funchal" 2010-11-11 (7.7, 93.4) ;
+registar condutor "DelmiroBarros@gmail.com" "Delmiro Barros" "NAqGLxvD" "Rua da Ara, 2047, 2785-723 Talaide" 2012-03-06 89 ;
+registar condutor "EloisaGoncalves@hotmail.com" "Eloisa Goncalves" "tLSHnCxN" "Canada do Jose Romeiro, 2404, 9700-301 Altares" 2002-10-28 54"Wings"  ;
+registar empresa "Taxis VS Ubers" "YHr7rhM4" ;
+registar helicoptero "43-FT-19" 67 "CarminaAlves@mail.google"  ;
+login "GirelAssuncao@mail.google"  "f9HZeE8s" ;
+solicitar (9.6, 32.5);
+logout ;
+
+login "CarminaAlves@mail.google"  "LaKyME8e" ;
+viajar ;
+logout ;
+
+
+registar cliente "HonorinoAntunes@mail.google" "Honorino Antunes" "OVQwT38p" "Rua Jose Afonso, 285, 2725-347 Mem Martins" 1999-03-14 (60.6, 23.3) ;
+registar condutor "DieterDomingues@hotmail.com" "Dieter Domingues" "caP0Xg7y" "Caminho da Arrota, 603, 3750-593 Macinhata do Vouga" 1990-10-28 74 ;
+registar condutor "JacobLourenco@mail.google" "Jacob Lourenco" "SWo0a9ot" "Rua Nova de Sao Paio, 817, 4755-251 Gueral" 1997-03-04 90"Taxistas"  ;
+registar empresa "Wings" "ZEkK7VB8" ;
+registar carrinha "64-PW-69" 43 "CarminaAlves@mail.google"  ;
+login "AristotelesFigueiredo@outlook.com"  "4GZmT7ar" ;
+solicitar (78.0, 41.4);
+logout ;
+
+login "DieterDomingues@hotmail.com"  "caP0Xg7y" ;
+viajar ;
+logout ;
+
+
+registar cliente "VirgulinoValente@sapo.pt" "Virgulino Valente" "d8TEug1E" "Rua Comendador Pereira da Silva, 1554, 5400-443 Santa Cruz" 1990-06-09 (24.3, 30.5) ;
+registar condutor "LeniaTeixeira@gmail.com" "Lenia Teixeira" "YlnwcjeQ" "Rua da Porqueira, 847, 4515-420 Medas" 2002-05-28 25 ;
+registar condutor "IsaliaSoares@sapo.pt" "Isalia Soares" "yz7wHqzw" "Quinta do Pereiro, 388, 6200-590 Peraboa" 2002-10-15 72"UMer"  ;
+registar empresa "Baby Driver" "e9fGvVrx" ;
+registar carrinha "67-XK-33" 82 "TassoPinto@sapo.pt"  ;
+login "HonorinoAntunes@mail.google"  "OVQwT38p" ;
+solicitar (60.0, 78.7);
+logout ;
+
+login "LeniaTeixeira@gmail.com"  "YlnwcjeQ" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "IsaiAmorim@gmail.com" "Isai Amorim" "4rlCVltr" "Rua Mario Viegas, 1228, 2700-899 Amadora" 1990-04-15 (22.7, 37.6) ;
+registar condutor "CassiaMatos@hotmail.com" "Cassia Matos" "Ro16rQZu" "Rua Visconde Valmor, 23, 5110-673 Vila Seca" 2006-11-22 64 ;
+registar condutor "GenesioPinheiro@outlook.com" "Genesio Pinheiro" "F4k284LB" "Rua do Couto, 2490, 2510-414 Amoreira" 2015-01-16 7"Taxistas"  ;
+registar empresa "Fast N Furious" "Bi8xwuLy" ;
+registar helicoptero "46-WH-72" 86 "ederValente@outlook.com"  ;
+login "SamantaCosta@hotmail.com"  "G7BAjFLX" ;
+solicitar (52.0, 66.5);
+logout ;
+
+login "GislenaSimoes@mail.google"  "XBc1jjf4" ;
+viajar ;
+logout ;
+
+
+registar cliente "IvoSoares@outlook.com" "Ivo Soares" "KUHmU6zA" "Rua do Pereiro, 457, 2415-209 Regueira de Pontes" 2011-05-04 (3.2, 69.4) ;
+registar condutor "VilmaMoreira@outlook.com" "Vilma Moreira" "eSTwM4BA" "Rua de Orion, 426, 2785-269 Tires" 2000-04-06 87 ;
+registar condutor "SimonetaMorais@outlook.com" "Simoneta Morais" "xyKn0Ub7" "Travessa das Oliveiras, 8, 2410-295 Leiria" 1993-03-01 90"Time"  ;
+
+registar carro "20-CA-54" 72 "TassoPinto@sapo.pt"  ;
+login "GirelAssuncao@mail.google"  "f9HZeE8s" ;
+solicitar (4.4, 39.3);
+logout ;
+
+login "AngeloLourenco@hotmail.com"  "Kc97yVcZ" ;
+viajar ;
+logout ;
+
+
+registar cliente "MiluMatias@hotmail.com" "Milu Matias" "Ny9Pwf6F" ", 1313, 4660-386 Casal" 1991-10-08 (98.2, 73.8) ;
+registar condutor "SaulaNascimento@hotmail.com" "Saula Nascimento" "OfzKIzM4" ", 1416, 7540-510 Casa Nova de Baixo" 1990-11-13 45 ;
+registar condutor "TristaoMiranda@sapo.pt" "Tristao Miranda" "fMIHB9D4" "Rua da Balsa, 1748, 5100-795 Sande" 2016-09-27 77"Baby Driver"  ;
+
+registar helicoptero "45-DP-10" 10 "CassiaMatos@hotmail.com"  ;
+login "GirelAssuncao@mail.google"  "f9HZeE8s" ;
+solicitar (39.8, 32.4);
+logout ;
+
+login "DelmiroBarros@gmail.com"  "NAqGLxvD" ;
+viajar ;
+logout ;
+
+
+registar cliente "CidalioVaz@outlook.com" "Cidalio Vaz" "PhrV05Ol" "Rua de Almofaes, 1493, 4765-073 Carreira" 2000-02-28 (91.1, 40.5) ;
+registar condutor "CandiceFigueiredo@outlook.com" "Candice Figueiredo" "sIPIhIGY" ", 1206, 4960-025 Antoes" 2005-02-20 61 ;
+registar condutor "SimoneBaptista@mail.google" "Simone Baptista" "QokMtwyX" "Rua Amelia Rey Colaco, 2390, 2685-186 Portela" 2001-04-01 30"Fast N Furious"  ;
+
+registar carro "45-DP-10" 22 "SaulaNascimento@hotmail.com"  ;
+login "AristotelesFigueiredo@outlook.com"  "4GZmT7ar" ;
+solicitar (85.3, 53.3);
+logout ;
+
+login "AngeloLourenco@hotmail.com"  "Kc97yVcZ" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "DorindoDomingues@sapo.pt" "Dorindo Domingues" "dKK7MuJU" "Rua Sao Tome e Principe, 34, 4520-030 Escapaes" 2000-05-15 (22.0, 44.2) ;
+registar condutor "ItaloCruz@sapo.pt" "Italo Cruz" "OEEapbzL" ", 1225, 3700-647 Praia" 2005-03-19 37 ;
+registar condutor "AlexandraCarneiro@hotmail.com" "Alexandra Carneiro" "BoyG3qSW" "Travessa Joaquim da Rosaria, 92, 2925-331 Azeitao" 1996-05-23 80"Taxis VS Ubers"  ;
+
+registar helicoptero "46-WH-72" 79 "AngeloLourenco@hotmail.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (66.4, 56.8);
+logout ;
+
+login "VilmaMoreira@outlook.com"  "eSTwM4BA" ;
+viajar ;
+logout ;
+
+
+registar cliente "GianiSousa@mail.google" "Giani Sousa" "9hcicE4T" "Loteamento da Reduncao, 1668, 4830-098 Campos" 2015-02-14 (93.9, 26.4) ;
+registar condutor "VitalioPires@outlook.com" "Vitalio Pires" "HYGosTIh" "Rua Belmiro Matos, 1525, 5360-339 Vila Flor" 1995-01-20 1 ;
+registar condutor "MafaldaNeves@hotmail.com" "Mafalda Neves" "dnvvByoL" "Rua do Estuval, 567, 3850-253 Sobreiro" 1997-11-23 44"Wings"  ;
+
+registar carrinha "79-XW-61" 91 "SaulaNascimento@hotmail.com"  ;
+login "SamantaCosta@hotmail.com"  "G7BAjFLX" ;
+solicitar (55.7, 4.4);
+logout ;
+
+login "DieterDomingues@hotmail.com"  "caP0Xg7y" ;
+viajar ;
+logout ;
+
+
+registar cliente "LibertarioFernandes@outlook.com" "Libertario Fernandes" "AqNJx8wd" "Rua da Colectividade, 490, 2580-134 Refugidos" 2002-03-14 (38.6, 55.9) ;
+registar condutor "SimauraMagalhaes@sapo.pt" "Simaura Magalhaes" "HOjHVPFL" "Estrada das Fontainhas, 1836, 2490-007 Alburitel" 1999-08-07 20 ;
+registar condutor "AdnerSantos@hotmail.com" "Adner Santos" "rHXLrcPC" "Largo Senhora das Dores, 768, 5030-130 Fontes" 2007-10-10 46"Lift"  ;
+
+registar mota "25-GY-37" 41 "GislenaSimoes@mail.google"  ;
+login "VirgulinoValente@sapo.pt"  "d8TEug1E" ;
+solicitar (23.9, 7.6);
+logout ;
+
+login "ederValente@outlook.com"  "LJHV0wDd" ;
+viajar ;
+logout ;
+
+
+registar cliente "AnquitaBranco@gmail.com" "Anquita Branco" "nkXhH8DT" "Rua Luis Clemente, 347, 2765-032 Alapraia" 1990-05-16 (63.4, 13.5) ;
+registar condutor "UrbalinoCampos@sapo.pt" "Urbalino Campos" "XtjrdqDH" "Rua do Lameirinho, 2314, 3510-124 Viseu" 2009-08-10 40 ;
+registar condutor "NicolauMonteiro@hotmail.com" "Nicolau Monteiro" "aXF7D1lQ" "Rua Coronel Garces Teixeira, 1351, 2300-462 Tomar" 1997-06-18 75"On Time"  ;
+
+registar helicoptero "20-CA-54" 42 "CandiceFigueiredo@outlook.com"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (98.7, 26.3);
+logout ;
+
+login "GislenaSimoes@mail.google"  "XBc1jjf4" ;
+viajar ;
+logout ;
+
+
+registar cliente "DelcioValente@mail.google" "Delcio Valente" "LBftHDRm" "Travessa de Gavim, 890, 4770-254 Joane" 2010-09-05 (8.0, 23.8) ;
+registar condutor "JosabeteMoreira@mail.google" "Josabete Moreira" "JuHbBS71" "Rua do Chafariz, 1745, 3505-427 Viseu" 2006-11-04 88 ;
+registar condutor "LairaGuerreiro@outlook.com" "Laira Guerreiro" "P63XW5yu" "Rua 18 de Janeiro, 2114, 2860-257 Alhos Vedros" 1996-10-06 87"UMer"  ;
+
+registar carro "67-XK-33" 52 "CarminaAlves@mail.google"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (10.2, 73.0);
+logout ;
+
+login "SimauraMagalhaes@sapo.pt"  "HOjHVPFL" ;
+viajar ;
+logout ;
+
+
+registar cliente "DamiaoGaspar@gmail.com" "Damiao Gaspar" "vc0rV2NG" "Rua Orlando Morais, 1588, 2655-468 Ericeira" 1997-12-17 (87.0, 76.2) ;
+registar condutor "AristidesSousa@outlook.com" "Aristides Sousa" "Uh1upKCL" "Rua do Forno, 1695, 3505-292 Pinheiro" 2001-10-18 92 ;
+registar condutor "SarinaSilva@mail.google" "Sarina Silva" "oIvnKqwq" "Rua Douro Minho, 204, 4770-352 Mouquim" 2013-03-05 23"On Time"  ;
+
+registar carrinha "45-DP-10" 58 "SimauraMagalhaes@sapo.pt"  ;
+login "GianiSousa@mail.google"  "9hcicE4T" ;
+solicitar (39.5, 66.3);
+logout ;
+
+login "CassiaMatos@hotmail.com"  "Ro16rQZu" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "ElmiraLopes@sapo.pt" "Elmira Lopes" "QM3qVxbG" "Rua da Cabine, 1409, 3700-706 Macieira de Sarnes" 1990-11-28 (63.7, 80.9) ;
+registar condutor "AudeteMendes@mail.google" "Audete Mendes" "noBEQnEg" "Estrada Regional 384, 1942, 7220-462 Portel" 1998-09-15 46 ;
+registar condutor "UrsiciaSantos@hotmail.com" "Ursicia Santos" "AcORurJo" "Rua 36, 1634, 2950-678 Quinta do Anjo" 2006-09-25 83"Wings"  ;
+
+registar helicoptero "88-QQ-39" 22 "TassoPinto@sapo.pt"  ;
+login "DorindoDomingues@sapo.pt"  "dKK7MuJU" ;
+solicitar (57.2, 25.3);
+logout ;
+
+login "TassoPinto@sapo.pt"  "5uN2jY5S" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "SimplicioBarbosa@sapo.pt" "Simplicio Barbosa" "lY4XclTL" "Rua da Liberdade, 445, 2640-306 Igreja Nova" 2003-05-12 (72.9, 18.1) ;
+registar condutor "GrimanesaDomingues@outlook.com" "Grimanesa Domingues" "597H4qSv" "Rua do Flamingo, 2139, 2750-690 Torre" 1993-10-24 88 ;
+registar condutor "CirilaBatista@sapo.pt" "Cirila Batista" "XvSAVy3b" "Rua Fontes, 2243, 9000-053 Funchal" 1992-05-02 80"Lift"  ;
+
+registar mota "25-GY-37" 85 "GrimanesaDomingues@outlook.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (77.1, 87.3);
+logout ;
+
+login "AudeteMendes@mail.google"  "noBEQnEg" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "NairGoncalves@outlook.com" "Nair Goncalves" "J6XGiCyk" "Rua da Saudade, 685, 3860-288 Estarreja" 1996-05-07 (41.2, 75.4) ;
+registar condutor "LucileineMendes@mail.google" "Lucileine Mendes" "2TkEVc45" "Urbanizacao do Telheiro, 2294, 8400-091 Mexilhoeira da Carregacao" 2004-10-14 96 ;
+registar condutor "ZiliaRibeiro@hotmail.com" "Zilia Ribeiro" "HW1iF8kp" ", 1774, 3105-071 Casal da Clara" 1999-09-15 72"Mad Drivers"  ;
+
+registar mota "45-DP-10" 70 "GislenaSimoes@mail.google"  ;
+login "AnquitaBranco@gmail.com"  "nkXhH8DT" ;
+solicitar (51.9, 36.1);
+logout ;
+
+login "AristidesSousa@outlook.com"  "Uh1upKCL" ;
+viajar ;
+logout ;
+
+
+registar cliente "JosefoMachado@hotmail.com" "Josefo Machado" "z68fmg96" "Avenida Marechal Humberto Delgado, 1126, 4760-012 Vila Nova de Famalicao" 2001-11-27 (94.7, 4.2) ;
+registar condutor "AmadorValente@mail.google" "Amador Valente" "yMRHPSzY" "Rua Praia do Burrinho, 1269, 7520-438 Porto Covo" 2014-06-15 71 ;
+registar condutor "RuiAntunes@outlook.com" "Rui Antunes" "2U3v3nuQ" "Rua A, 1433, 6200-826 Tortosendo" 2003-01-10 2"Crazy Drivers"  ;
+
+registar helicoptero "51-BU-82" 20 "VilmaMoreira@outlook.com"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (72.5, 99.9);
+logout ;
+
+login "SaulaNascimento@hotmail.com"  "OfzKIzM4" ;
+viajar ;
+logout ;
+
+
+registar cliente "TaisEsteves@sapo.pt" "Tais Esteves" "R33kSbVK" "Rua do Paraiso, 695, 2715-066 Pero Pinheiro" 1998-04-26 (2.0, 32.9) ;
+registar condutor "CatiaCorreia@hotmail.com" "Catia Correia" "qyAbCRvC" "Rua de Espariz, 1632, 4890-165 Codecoso" 2000-10-14 15 ;
+registar condutor "RicardoOliveira@mail.google" "Ricardo Oliveira" "Pt7Zq7Cl" "Rua dos Soutos, 64, 7320-128 Castelo de Vide" 2011-02-11 21"Wings"  ;
+
+registar carro "97-AN-41" 73 "LuziaLeal@outlook.com"  ;
+login "ElmiraLopes@sapo.pt"  "QM3qVxbG" ;
+solicitar (16.7, 66.9);
+logout ;
+
+login "CassiaMatos@hotmail.com"  "Ro16rQZu" ;
+viajar ;
+logout ;
+
+
+registar cliente "HonorinaLima@outlook.com" "Honorina Lima" "0RpI3sfi" "Travessa de Caride, 2267, 4770-666 Sao Paio de Seide" 2000-07-15 (14.4, 16.6) ;
+registar condutor "IreneiaAlmeida@outlook.com" "Ireneia Almeida" "WxzaDk8c" "Estrada Principal, 682, 2710-140 Campo Raso" 2016-04-05 20 ;
+registar condutor "DjalmeRibeiro@mail.google" "Djalme Ribeiro" "L1Tsl3B7" "Rua do Bom Pastor, 1784, 1500-115 Lisboa" 1999-05-12 98"Baby Driver"  ;
+
+registar carrinha "45-DP-10" 41 "LucileineMendes@mail.google"  ;
+login "SimplicioBarbosa@sapo.pt"  "lY4XclTL" ;
+solicitar (75.9, 3.5);
+logout ;
+
+login "GislenaSimoes@mail.google"  "XBc1jjf4" ;
+viajar ;
+logout ;
+
+
+registar cliente "IlseLeite@sapo.pt" "Ilse Leite" "eIMcuLMV" "Travessa de Santo Antonio, 2310, 3100-405 Charneca" 2004-01-17 (42.8, 74.0) ;
+registar condutor "PaulaValente@mail.google" "Paula Valente" "unYYQVuV" "Estrada Nacional 356, 2422, 2435-576 Seica" 2004-09-21 64 ;
+registar condutor "acilAntunes@gmail.com" "acil Antunes" "T9ECFxt5" ", 653, 3320-313 Ramalheira" 2007-02-26 65"On Time"  ;
+
+registar carrinha "79-XW-61" 11 "GraciosaMoreira@sapo.pt"  ;
+login "DelcioValente@mail.google"  "LBftHDRm" ;
+solicitar (69.2, 68.3);
+logout ;
+
+login "VilmaMoreira@outlook.com"  "eSTwM4BA" ;
+viajar ;
+logout ;
+
+
+registar cliente "ArcelioLeite@mail.google" "Arcelio Leite" "MPXyQK98" "Rua Andrade Corvo, 725, 1069-220 Lisboa" 2011-11-22 (55.9, 79.7) ;
+registar condutor "GuislenaFonseca@hotmail.com" "Guislena Fonseca" "9qR6JCxm" "Rua do Caldeano, 1026, 2130-141 Santo Estevao" 2002-10-10 6 ;
+registar condutor "TeodomiroSilva@gmail.com" "Teodomiro Silva" "O0LgrYXl" "Avenida de Padua, 1341, 2765-433 Monte Estoril" 1999-01-03 19"On Time"  ;
+
+registar helicoptero "99-VB-40" 93 "LucileineMendes@mail.google"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (77.5, 96.0);
+logout ;
+
+login "GuislenaFonseca@hotmail.com"  "9qR6JCxm" ;
+viajar ;
+logout ;
+
+
+registar cliente "GracianaRodrigues@hotmail.com" "Graciana Rodrigues" "JRM2H1rU" ", 2108, 6100-653 Ladeiras" 1996-07-06 (75.7, 10.0) ;
+registar condutor "ElgarFreitas@sapo.pt" "Elgar Freitas" "NGnlLveN" "Rua Doutor Joao Pais Carvalho Mamede, 1199, 3450-039 Vale de Acores" 1993-08-23 73 ;
+registar condutor "UranioEsteves@sapo.pt" "Uranio Esteves" "KMaVtnIL" "Rua Dona Filipa de Lencastre, 1601, 2785-266 Tires" 2015-09-18 75"Fast N Furious"  ;
+
+registar mota "64-PW-69" 42 "GraciosaMoreira@sapo.pt"  ;
+login "OrianaRibeiro@mail.google"  "jQIZVvvf" ;
+solicitar (36.6, 75.4);
+logout ;
+
+login "ItaloCruz@sapo.pt"  "OEEapbzL" ;
+viajar ;
+logout ;
+
+
+registar cliente "SilvanaMonteiro@hotmail.com" "Silvana Monteiro" "CNy4Bgay" "Calcada da Cancela Vermelha, 344, 4625-510 Sande" 2003-10-17 (0.8, 35.5) ;
+registar condutor "TorquatoGuerreiro@outlook.com" "Torquato Guerreiro" "39fizYTK" "Rua da Encosta do Carrascal, 1101, 2490-005 Alburitel" 2001-10-20 15 ;
+registar condutor "JulindaRodrigues@mail.google" "Julinda Rodrigues" "etMGftfj" "Estrada Santo Antonio da Pipa, 2252, 7860-353 Moura" 2008-12-13 95"Taxistas"  ;
+
+registar carro "32-BY-42" 86 "GuislenaFonseca@hotmail.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (87.6, 24.1);
+logout ;
+
+login "AudeteMendes@mail.google"  "noBEQnEg" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "AngelaCoelho@mail.google" "Angela Coelho" "S4TMkbuH" "Rua das Moutas, 1308, 4475-205 Maia" 1992-01-10 (23.1, 40.0) ;
+registar condutor "AbelDomingues@sapo.pt" "Abel Domingues" "qCbxXCQN" "Estrada da Serra das Meadas, 907, 5100-062 Lamego" 1991-01-23 44 ;
+registar condutor "AlpoimOliveira@mail.google" "Alpoim Oliveira" "BaqeOljZ" "Rua da Piscina, 1672, 1495-150 Miraflores" 1991-12-02 74"Wings"  ;
+
+registar carro "10-IM-15" 6 "PaulaValente@mail.google"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (52.3, 43.9);
+logout ;
+
+login "AudeteMendes@mail.google"  "noBEQnEg" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "SindulfoJesus@gmail.com" "Sindulfo Jesus" "ZO0idlLP" "Rua da Cegonheira, 1315, 4610-140 Felgueiras" 2012-11-12 (40.7, 30.9) ;
+registar condutor "SofiaLoureiro@sapo.pt" "Sofia Loureiro" "qE4o3q3q" "Praceta de Bombeiros Voluntarios, 978, 4430-775 Avintes" 2012-12-04 21 ;
+registar condutor "MartimAssuncao@mail.google" "Martim Assuncao" "Zfs8EztS" "Travessa Alto da Picadela, 8, 4500-413 Espinho" 2004-06-12 51"Taxistas"  ;
+
+registar mota "71-RD-51" 61 "TorquatoGuerreiro@outlook.com"  ;
+login "IvoSoares@outlook.com"  "KUHmU6zA" ;
+solicitar (95.4, 20.5);
+logout ;
+
+login "DieterDomingues@hotmail.com"  "caP0Xg7y" ;
+viajar ;
+logout ;
+
+
+registar cliente "DulcelinaVieira@hotmail.com" "Dulcelina Vieira" "gfkgw2WW" ", 888, 5445-012 Midoes" 2008-08-22 (54.5, 53.9) ;
+registar condutor "AnunciacaoMendes@sapo.pt" "Anunciacao Mendes" "q8lPiB8l" "Travessa Dona Maria Adelaide Ribeirete, 480, 2510-044 obidos" 1991-11-23 15 ;
+registar condutor "RafaeloReis@sapo.pt" "Rafaelo Reis" "nsGn3B3u" "Travessa Fonte Lameira, 1623, 2665-371 Semineira" 2014-02-05 73"Wings"  ;
+
+registar carrinha "97-AN-41" 87 "CandiceFigueiredo@outlook.com"  ;
+login "SindulfoJesus@gmail.com"  "ZO0idlLP" ;
+solicitar (68.2, 14.0);
+logout ;
+
+login "FaniaMarques@outlook.com"  "V8tC9Ocn" ;
+viajar ;
+logout ;
+
+
+registar cliente "AgostinhoMaia@outlook.com" "Agostinho Maia" "vlTjbTzH" "Travessa Bouca do Monte, 408, 4445-357 Ermesinde" 1997-11-09 (0.3, 71.3) ;
+registar condutor "VivaldaMagalhaes@sapo.pt" "Vivalda Magalhaes" "8VAN1zS4" "Rua Sao Francisco Xavier, 54, 5400-281 Alto da Trindade" 1990-09-28 48 ;
+registar condutor "TirsaMarques@outlook.com" "Tirsa Marques" "G9HB6Yp8" "Travessa do Guadiana, 5, 2750-589 Cobre" 2015-04-02 3"Mad Drivers"  ;
+
+registar mota "67-XK-33" 91 "SofiaLoureiro@sapo.pt"  ;
+login "IlseLeite@sapo.pt"  "eIMcuLMV" ;
+solicitar (24.8, 14.5);
+logout ;
+
+login "VitalioPires@outlook.com"  "HYGosTIh" ;
+viajar ;
+logout ;
+
+
+registar cliente "GencianaVieira@hotmail.com" "Genciana Vieira" "PQIU5kOQ" "Rua da Residencia, 2289, 4860-458 Vale" 2002-06-10 (79.9, 75.3) ;
+registar condutor "HernaniJesus@gmail.com" "Hernani Jesus" "3RZ5iKR0" "Avenida de Sao Pedro, 1326, 1675-170 Pontinha" 2011-11-03 43 ;
+registar condutor "LucianaSoares@mail.google" "Luciana Soares" "UySZViHc" "Rua Padre Antonio Maria Pinho, 1864, 3860-383 Estarreja" 2015-04-04 61"Lift"  ;
+
+registar carro "79-XW-61" 85 "SaulaNascimento@hotmail.com"  ;
+login "VirgulinoValente@sapo.pt"  "d8TEug1E" ;
+solicitar (23.8, 3.4);
+logout ;
+
+login "VivaldaMagalhaes@sapo.pt"  "8VAN1zS4" ;
+viajar ;
+logout ;
+
+
+registar cliente "CastaSoares@sapo.pt" "Casta Soares" "ZH5Nqm0X" "Rua de Terroselo, 1815, 4750-772 Ucha" 2001-04-15 (51.2, 72.1) ;
+registar condutor "CristoforoValente@hotmail.com" "Cristoforo Valente" "m3AAiK3T" "Rua Almada Negreiros, 1665, 2865-717 Quinta das Laranjeiras" 2009-11-06 33 ;
+registar condutor "TadeuRibeiro@sapo.pt" "Tadeu Ribeiro" "suPcDYiD" "Rua Jose Brandao de Almeida, 2363, 2725-348 Mem Martins" 2000-07-23 84"Crazy Drivers"  ;
+
+registar mota "47-UJ-83" 100 "TorquatoGuerreiro@outlook.com"  ;
+login "LibertarioFernandes@outlook.com"  "AqNJx8wd" ;
+solicitar (91.1, 32.7);
+logout ;
+
+login "VilmaMoreira@outlook.com"  "eSTwM4BA" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "AvelinoCruz@gmail.com" "Avelino Cruz" "X2E562bJ" "Travessa Nova da Brenha, 580, 4560-236 Milhundos" 2005-03-09 (97.5, 12.2) ;
+registar condutor "MicheleMacedo@sapo.pt" "Michele Macedo" "QGAvAywF" "Travessa do Souto Novo, 372, 4805-332 Corvite" 2008-12-26 57 ;
+registar condutor "MarcoMarques@mail.google" "Marco Marques" "o6GgaA2Y" "Travessa Antonia Rodrigues, 1900, 2820-202 Charneca de Caparica" 2002-06-21 97"Taxis VS Ubers"  ;
+
+registar helicoptero "62-TB-28" 23 "VilmaMoreira@outlook.com"  ;
+login "AgostinhoMaia@outlook.com"  "vlTjbTzH" ;
+solicitar (34.8, 48.0);
+logout ;
+
+login "CassiaMatos@hotmail.com"  "Ro16rQZu" ;
+viajar ;
+logout ;
+
+
+registar cliente "RamiroBaptista@mail.google" "Ramiro Baptista" "hy01wA31" "Beco Jorge Odorico Dias, 807, 9400-137 Porto Santo" 1994-06-28 (32.7, 12.2) ;
+registar condutor "GenesiaMota@hotmail.com" "Genesia Mota" "P2v4ebR3" "Rua Padre Manuel da Nobrega, 1486, 2810-258 Almada" 2003-11-13 78 ;
+registar condutor "AraciNeves@mail.google" "Araci Neves" "Fw4rcu2r" "Rua Jose de Carvalho, 1, 9500-794 Sao Roque" 2016-04-22 7"Crazy Drivers"  ;
+
+registar carrinha "71-RD-51" 69 "DelmiroBarros@gmail.com"  ;
+login "AgostinhoMaia@outlook.com"  "vlTjbTzH" ;
+solicitar (56.4, 71.6);
+logout ;
+
+login "AmadorValente@mail.google"  "yMRHPSzY" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "CrisanteFonseca@outlook.com" "Crisante Fonseca" "IG0JW8cP" "Rua 25 de Abril, 1882, 2680-373 Catujal" 1999-07-28 (2.2, 59.9) ;
+registar condutor "DorineAndrade@gmail.com" "Dorine Andrade" "jW4BjERf" "Rua do Brasil, 2198, 2695-533 Sao Joao da Talha" 2005-09-21 71 ;
+registar condutor "SilvandiraNogueira@outlook.com" "Silvandira Nogueira" "Ucm52mth" "Caminho Municipal 808, 986, 2065-556 Vila Nova de Sao Pedro" 2008-09-07 44"Baby Driver"  ;
+
+registar mota "03-BF-64" 71 "GrimanesaDomingues@outlook.com"  ;
+login "IvoSoares@outlook.com"  "KUHmU6zA" ;
+solicitar (54.8, 88.8);
+logout ;
+
+login "CatiaCorreia@hotmail.com"  "qyAbCRvC" ;
+viajar ;
+logout ;
+
+
+registar cliente "SalustianoCarvalho@outlook.com" "Salustiano Carvalho" "5JHDoIRq" "Estrada da Quinta das Varzeas, 2420, 3020-198 Coimbra" 1995-04-26 (48.3, 90.2) ;
+registar condutor "DurvalinaPacheco@hotmail.com" "Durvalina Pacheco" "5FL3IwvJ" "Travessa das Mimosas, 1361, 4760-717 Ribeirao" 2005-10-08 45 ;
+registar condutor "MatiasBorges@sapo.pt" "Matias Borges" "UkVRUskO" "Rua das Fontes, 1113, 2440-446 Alcanadas" 1994-05-07 63"GeTit"  ;
+
+registar carrinha "40-MU-50" 10 "TassoPinto@sapo.pt"  ;
+login "DorindoDomingues@sapo.pt"  "dKK7MuJU" ;
+solicitar (77.1, 12.2);
+logout ;
+
+login "CarminaAlves@mail.google"  "LaKyME8e" ;
+viajar ;
+logout ;
+
+
+registar cliente "AlineDomingues@outlook.com" "Aline Domingues" "T9gyGbfo" "Caminho de Pensais, 222, 4640-249 Gestaco" 2015-05-09 (27.5, 59.3) ;
+registar condutor "BlasiaCunha@mail.google" "Blasia Cunha" "R2IEYgA8" "Beco da Aroeira, 2267, 7645-269 Vila Nova de Milfontes" 2016-02-03 16 ;
+registar condutor "EverardoMatos@hotmail.com" "Everardo Matos" "UDxozD48" ", 809, 8200-493 Monte Novo" 2004-08-28 37"Mad Drivers"  ;
+
+registar carrinha "85-GK-30" 53 "HernaniJesus@gmail.com"  ;
+login "JosefoMachado@hotmail.com"  "z68fmg96" ;
+solicitar (33.2, 22.4);
+logout ;
+
+login "GenesiaMota@hotmail.com"  "P2v4ebR3" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "DilanPires@sapo.pt" "Dilan Pires" "jE4rlzqv" "Rua do Regedor, 608, 4925-097 Viana do Castelo" 2001-08-08 (0.2, 43.3) ;
+registar condutor "GervasiaNunes@gmail.com" "Gervasia Nunes" "5axYaRTa" "Estrada da Areia, 1251, 9300-323 Camara de Lobos" 1993-08-08 83 ;
+registar condutor "BoanergesMoura@gmail.com" "Boanerges Moura" "wE47LzE2" "Rua do Mualdo, 2104, 4505-623 Sanguedo" 2008-10-25 92"Wings"  ;
+
+registar carro "55-YA-47" 94 "GislenaSimoes@mail.google"  ;
+login "NairGoncalves@outlook.com"  "J6XGiCyk" ;
+solicitar (98.8, 24.9);
+logout ;
+
+login "FaniaMarques@outlook.com"  "V8tC9Ocn" ;
+viajar ;
+logout ;
+
+
+registar cliente "CiporaRibeiro@mail.google" "Cipora Ribeiro" "ZIMtj3gs" "Rua dos Moinhos das Luzes, 1230, 3880-196 Ovar" 2015-07-15 (37.7, 95.0) ;
+registar condutor "EspeciosaMatias@sapo.pt" "Especiosa Matias" "CTN2lHZ7" ", 128, 4540-364 Arroteia" 2008-08-03 65 ;
+registar condutor "AngelicoAlmeida@sapo.pt" "Angelico Almeida" "mRn5COR6" "Rua do Passal, 1997, 4575-578 Valpedre" 2004-01-21 14"Fast N Furious"  ;
+
+registar carrinha "69-HB-88" 37 "DieterDomingues@hotmail.com"  ;
+login "CrisanteFonseca@outlook.com"  "IG0JW8cP" ;
+solicitar (15.3, 99.9);
+logout ;
+
+login "ElgarFreitas@sapo.pt"  "NGnlLveN" ;
+viajar ;
+logout ;
+
+
+registar cliente "SivioRodrigues@gmail.com" "Sivio Rodrigues" "DSBoCe2H" "Rua Pedro alvares Cabral, 1237, 2825-049 Lazarim" 2008-05-04 (63.7, 49.6) ;
+registar condutor "SinesioValente@mail.google" "Sinesio Valente" "FzZuaEBU" "Travessa do Patricio, 1293, 7400-404 Torre das Vargens" 1997-12-23 58 ;
+registar condutor "AntonietaNunes@hotmail.com" "Antonieta Nunes" "UgjLumCi" "Estrada das Vinhas Velhas, 952, 2130-332 Benavente" 2007-02-28 46"Taxis VS Ubers"  ;
+
+registar carrinha "88-QQ-39" 64 "DelmiroBarros@gmail.com"  ;
+login "CastaSoares@sapo.pt"  "ZH5Nqm0X" ;
+solicitar (83.1, 31.6);
+logout ;
+
+login "HernaniJesus@gmail.com"  "3RZ5iKR0" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "FernandinaFernandes@hotmail.com" "Fernandina Fernandes" "baBWCMLR" "Rua da Esteva, 1541, 7750-295 Mertola" 2002-05-26 (15.1, 0.0) ;
+registar condutor "UrbalinaFigueiredo@mail.google" "Urbalina Figueiredo" "RK45Fy0z" ", 306, 8375-207 Corte Peral" 2003-12-23 5 ;
+registar condutor "SilasReis@outlook.com" "Silas Reis" "ByEOZTll" "Avenida de Italia, 1108, 2765-419 Monte Estoril" 2007-07-26 53"Taxis VS Ubers"  ;
+
+registar helicoptero "49-MZ-95" 81 "SinesioValente@mail.google"  ;
+login "DilanPires@sapo.pt"  "jE4rlzqv" ;
+solicitar (13.8, 21.6);
+logout ;
+
+login "CarminaAlves@mail.google"  "LaKyME8e" ;
+viajar ;
+logout ;
+
+
+registar cliente "SelesaSimoes@hotmail.com" "Selesa Simoes" "jH3yedb7" "Rua da Hera, 1613, 7830-354 Serpa" 1998-08-10 (76.2, 81.2) ;
+registar condutor "HaroldoMartins@sapo.pt" "Haroldo Martins" "IbDr0ajV" "Travessa do Largo da Cortica, 2424, 3080-262 Buarcos" 1996-03-23 59 ;
+registar condutor "IldaMendes@outlook.com" "Ilda Mendes" "dkhoHHlv" "Rua Aguardilha, 1073, 4805-647 Corvite" 2002-10-23 48"Baby Driver"  ;
+
+registar helicoptero "28-ZV-74" 44 "LucileineMendes@mail.google"  ;
+login "JosefoMachado@hotmail.com"  "z68fmg96" ;
+solicitar (37.0, 10.6);
+logout ;
+
+login "UrbalinaFigueiredo@mail.google"  "RK45Fy0z" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "RaimundoGuerreiro@gmail.com" "Raimundo Guerreiro" "8SHsquOd" "Rua da Igreja, 1733, 2950-525 Quinta do Anjo" 2000-05-24 (94.4, 50.2) ;
+registar condutor "RudiCorreia@mail.google" "Rudi Correia" "h97uwccy" "Rua do Rio Homem, 43, 4720-119 Rendufe" 2010-05-19 61 ;
+registar condutor "GretaAndrade@sapo.pt" "Greta Andrade" "HsaiYegD" "Beco Fonte do Leite de Baixo, 1789, 5400-257 Chaves" 2006-06-27 91"Baby Driver"  ;
+
+registar helicoptero "87-CA-05" 55 "SaulaNascimento@hotmail.com"  ;
+login "CastaSoares@sapo.pt"  "ZH5Nqm0X" ;
+solicitar (9.2, 17.3);
+logout ;
+
+login "HaroldoMartins@sapo.pt"  "IbDr0ajV" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "EDNEYAssuncao@sapo.pt" "EDNEY Assuncao" "NZnqMTpx" "Beco da Doceia, 1667, 2415-494 Leiria" 2002-07-19 (15.1, 34.4) ;
+registar condutor "DarqueAmorim@sapo.pt" "Darque Amorim" "bGTVd8Dn" "Largo das Alminhas, 749, 4590-662 Raimonda" 2013-07-17 48 ;
+registar condutor "EngeleciaRaposo@mail.google" "Engelecia Raposo" "s5uiYtRz" "Rua Quinta da Serralheira, 2012, 2910-198 Setubal" 2002-06-18 14"Baby Driver"  ;
+
+registar carro "53-MB-92" 63 "CristoforoValente@hotmail.com"  ;
+login "CastaSoares@sapo.pt"  "ZH5Nqm0X" ;
+solicitar (26.5, 55.1);
+logout ;
+
+login "SaulaNascimento@hotmail.com"  "OfzKIzM4" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "JoasPires@sapo.pt" "Joas Pires" "iJXPms6Z" "Rua Almada Negreiros, 1715, 2865-409 Fernao Ferro" 1997-01-12 (48.4, 29.3) ;
+registar condutor "ZelioAntunes@mail.google" "Zelio Antunes" "5CT7Lxd9" "Rua Paraiso, 420, 7800-651 Vila Azedo" 2010-02-05 73 ;
+registar condutor "DorindaPacheco@mail.google" "Dorinda Pacheco" "oyPaYQtz" "Travessa aguas, 2376, 2510-519 Olho Marinho" 2008-05-12 33"Taxistas"  ;
+
+registar carro "47-UJ-83" 47 "SaulaNascimento@hotmail.com"  ;
+login "RaimundoGuerreiro@gmail.com"  "8SHsquOd" ;
+solicitar (12.2, 4.1);
+logout ;
+
+login "SaulaNascimento@hotmail.com"  "OfzKIzM4" ;
+viajar ;
+logout ;
+
+
+registar cliente "DjamilaTeixeira@mail.google" "Djamila Teixeira" "Im1P6OzA" "Travessa da Gandra, 3, 4910-020 ancora" 2009-01-05 (11.1, 31.3) ;
+registar condutor "JoelaAbreu@outlook.com" "Joela Abreu" "hmuZqFmI" "Avenida Dom Joao VI, 1548, 8700-143 Olhao" 2015-05-01 84 ;
+registar condutor "LeonisaEsteves@sapo.pt" "Leonisa Esteves" "D2mPsAJt" "Largo de Sao Joao, 2090, 4930-686 Valenca" 2001-07-23 89"UMer"  ;
+
+registar carro "99-VB-40" 82 "GuislenaFonseca@hotmail.com"  ;
+login "ElmiraLopes@sapo.pt"  "QM3qVxbG" ;
+solicitar (64.7, 65.4);
+logout ;
+
+login "CarminaAlves@mail.google"  "LaKyME8e" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "BelemAzevedo@outlook.com" "Belem Azevedo" "bXumLUOu" "Rua da Corredoura, 351, 4925-407 Lanheses" 2016-02-14 (86.0, 89.6) ;
+registar condutor "AlvarimRamos@hotmail.com" "Alvarim Ramos" "02vpioha" "Rua Sol e Vento, 1523, 2530-325 Zambujeira" 2001-05-16 23 ;
+registar condutor "DialinaCoelho@gmail.com" "Dialina Coelho" "6xS177VI" "Rua de Pelames, 693, 4410-289 Canelas" 2001-11-20 21"Taxistas"  ;
+
+registar helicoptero "87-CA-05" 48 "VilmaMoreira@outlook.com"  ;
+login "CidalioVaz@outlook.com"  "PhrV05Ol" ;
+solicitar (54.0, 67.7);
+logout ;
+
+login "DarqueAmorim@sapo.pt"  "bGTVd8Dn" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "JudasNeves@outlook.com" "Judas Neves" "Gf9yEtMo" "Rua da Eirinha, 1715, 2635-358 Rio de Mouro" 1998-07-28 (17.5, 90.7) ;
+registar condutor "CristelaSilva@hotmail.com" "Cristela Silva" "05dVwcRO" "Travessa do Coelho, 12, 2560-194 Escravilheira" 1990-01-23 71 ;
+registar condutor "CarmeliaLeal@hotmail.com" "Carmelia Leal" "a1EJ5RJL" "Rua das Vendas, 2043, 4805-341 Ponte" 2013-03-06 84"Baby Driver"  ;
+
+registar helicoptero "44-QQ-80" 25 "ElgarFreitas@sapo.pt"  ;
+login "JosefoMachado@hotmail.com"  "z68fmg96" ;
+solicitar (73.7, 63.7);
+logout ;
+
+login "GervasiaNunes@gmail.com"  "5axYaRTa" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "AngelinaMaia@mail.google" "Angelina Maia" "bOoJtNBd" "Rua Arnaldo de Sousa, 113, 4595-110 Frazao" 1990-08-23 (67.9, 75.3) ;
+registar condutor "LeonoraSantos@mail.google" "Leonora Santos" "tBgCZaEJ" ", 967, 8550-382 Serro da Pousada" 2011-11-24 93 ;
+registar condutor "PolibeLopes@sapo.pt" "Polibe Lopes" "3fd0VU1R" "Travessa do Bica, 1268, 3880-637 Valega" 2006-06-10 83"Time"  ;
+
+registar carrinha "70-WK-26" 41 "SaulaNascimento@hotmail.com"  ;
+login "TaisEsteves@sapo.pt"  "R33kSbVK" ;
+solicitar (4.6, 64.5);
+logout ;
+
+login "MicheleMacedo@sapo.pt"  "QGAvAywF" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "ElmaDomingues@gmail.com" "Elma Domingues" "itzFoLe8" ", 2335, 3650-105 Malhada" 1991-11-06 (81.0, 49.7) ;
+registar condutor "SalvadorNascimento@sapo.pt" "Salvador Nascimento" "Rxs0gSvo" "Rua da Sobremina, 748, 2640-230 Encarnacao" 1997-03-07 31 ;
+registar condutor "DilermandoRamos@gmail.com" "Dilermando Ramos" "d5860kFD" "Travessa do Boeiro, 1711, 4780-412 Santo Tirso" 1998-07-23 29"Time"  ;
+
+registar carrinha "23-PM-45" 52 "CarminaAlves@mail.google"  ;
+login "SamantaCosta@hotmail.com"  "G7BAjFLX" ;
+solicitar (74.3, 18.8);
+logout ;
+
+login "GervasiaNunes@gmail.com"  "5axYaRTa" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "CastelinoFonseca@sapo.pt" "Castelino Fonseca" "VsU4jGym" "Rua 20 de Janeiro, 334, 4520-177 Santa Maria da Feira" 2004-09-28 (91.8, 64.4) ;
+registar condutor "TejalaFerreira@mail.google" "Tejala Ferreira" "nTkKZhPL" "Rua Doutor Jose Luis Viana Queiros Guerra, 2177, 5050-370 Vilarinho dos Freires" 2013-11-24 65 ;
+registar condutor "FebaAlves@gmail.com" "Feba Alves" "mtKqe6k8" "Travessa do Forno, 2186, 7665-839 Saboia" 1997-05-23 98"Fast N Furious"  ;
+
+registar helicoptero "98-XU-12" 58 "GenesiaMota@hotmail.com"  ;
+login "SelesaSimoes@hotmail.com"  "jH3yedb7" ;
+solicitar (71.2, 1.1);
+logout ;
+
+login "AbelDomingues@sapo.pt"  "qCbxXCQN" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "AmericaBrito@sapo.pt" "America Brito" "Jtpa8wKT" "Rua do Lavadouro Municipal, 2281, 7100-541 Estremoz" 1998-09-22 (5.2, 33.1) ;
+registar condutor "RonaldoGoncalves@outlook.com" "Ronaldo Goncalves" "E2y01AgQ" "Rua Irene Lisboa, 1319, 2800-600 Almada" 2016-12-16 92 ;
+registar condutor "GardelaGarcia@outlook.com" "Gardela Garcia" "2Ns51q0c" "Largo de Sao Joao, 154, 2640-035 Ribamar" 1993-01-03 87"Wings"  ;
+
+registar carrinha "45-DP-10" 14 "AmadorValente@mail.google"  ;
+login "AristotelesFigueiredo@outlook.com"  "4GZmT7ar" ;
+solicitar (52.6, 12.2);
+logout ;
+
+login "JoelaAbreu@outlook.com"  "hmuZqFmI" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "GalileuMatos@outlook.com" "Galileu Matos" "4LzOUTQd" "Rua da Malagueta, 63, 9700-114 Angra do Heroismo" 1998-09-08 (53.5, 67.3) ;
+registar condutor "EstevaoGaspar@outlook.com" "Estevao Gaspar" "yoczTdiJ" "Rua Antero de Quental, 2474, 2865-633 Fernao Ferro" 2011-03-25 8 ;
+registar condutor "LidorioGomes@outlook.com" "Lidorio Gomes" "1mBKCaO2" ", 1788, 4970-371 Aspra" 2008-01-11 87"Mad Drivers"  ;
+
+registar mota "64-PW-69" 79 "CristoforoValente@hotmail.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (35.8, 92.2);
+logout ;
+
+login "ItaloCruz@sapo.pt"  "OEEapbzL" ;
+viajar ;
+logout ;
+
+
+registar cliente "IdaliaAzevedo@outlook.com" "Idalia Azevedo" "LbKI1wvH" "Rua de Sousas, 1834, 4795-706 Sao Tome" 2003-10-18 (35.0, 94.1) ;
+registar condutor "IvanLourenco@outlook.com" "Ivan Lourenco" "ftnScZ5c" "Caminho de Lameirao, 1566, 4560-192 Lagares" 1996-08-09 48 ;
+registar condutor "DurvalinoHenriques@mail.google" "Durvalino Henriques" "jMve5s0x" "Rua Nariade Galvao, 1929, 7005-475 evora" 2000-07-13 11"Fast N Furious"  ;
+
+registar carro "09-LY-02" 84 "ederValente@outlook.com"  ;
+login "RaimundoGuerreiro@gmail.com"  "8SHsquOd" ;
+solicitar (13.3, 98.1);
+logout ;
+
+login "CristoforoValente@hotmail.com"  "m3AAiK3T" ;
+viajar ;
+logout ;
+
+
+registar cliente "AntelmoLeal@gmail.com" "Antelmo Leal" "kqm4MbVR" "Rua Miguel Bombarda, 646, 2825-868 Trafaria" 2014-03-14 (21.5, 63.5) ;
+registar condutor "TerezinhaFerreira@hotmail.com" "Terezinha Ferreira" "MFnseQgE" "Rua de Franca, 910, 4990-173 Ponte de Lima" 2001-10-04 37 ;
+registar condutor "CleopatraBrito@outlook.com" "Cleopatra Brito" "oPzZq2qn" "Caminho da Mourisca, 1501, 4905-631 Subportela" 2002-07-01 55"Crazy Drivers"  ;
+
+registar mota "76-IJ-18" 56 "AmadorValente@mail.google"  ;
+login "GalileuMatos@outlook.com"  "4LzOUTQd" ;
+solicitar (28.0, 52.3);
+logout ;
+
+login "BlasiaCunha@mail.google"  "R2IEYgA8" ;
+viajar ;
+logout ;
+
+
+registar cliente "LilieteSousa@sapo.pt" "Liliete Sousa" "tvTdrh5t" "Rua da Vinha, 1608, 4580-695 Vilela" 2009-03-01 (23.8, 83.3) ;
+registar condutor "SalmaFreitas@hotmail.com" "Salma Freitas" "GamZtdBD" "Rua Miguel Torga, 1199, 3200-159 Lousa" 2004-06-01 69 ;
+registar condutor "AlicaMorais@outlook.com" "Alica Morais" "FBdywWMV" "Rua Abel de Sousa Fernandes, 496, 4470-170 Maia" 2003-01-06 58"Lift"  ;
+
+registar carro "64-PW-69" 9 "IvanLourenco@outlook.com"  ;
+login "CrisanteFonseca@outlook.com"  "IG0JW8cP" ;
+solicitar (59.1, 32.4);
+logout ;
+
+login "IreneiaAlmeida@outlook.com"  "WxzaDk8c" ;
+viajar ;
+logout ;
+
+
+registar cliente "AscensoRamos@outlook.com" "Ascenso Ramos" "pDeZhc9H" "Rua Jorge Amado, 525, 4800-091 Guimaraes" 2010-10-23 (70.9, 6.7) ;
+registar condutor "GabinioMatos@gmail.com" "Gabinio Matos" "QXjxwSUm" "Estrada de Valmitao, 517, 2530-640 Ribamar" 2016-10-08 13 ;
+registar condutor "JandiraMatias@gmail.com" "Jandira Matias" "54GPtq6f" "Rua Barao de Viamonte, 2210, 2400-262 Leiria" 2014-04-03 54"Taxis VS Ubers"  ;
+
+registar carro "02-EA-21" 33 "JoelaAbreu@outlook.com"  ;
+login "OliviaHenriques@outlook.com"  "HVH1pXSa" ;
+solicitar (64.8, 56.2);
+logout ;
+
+login "EspeciosaMatias@sapo.pt"  "CTN2lHZ7" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "LeoniliaFaria@outlook.com" "Leonilia Faria" "l3Zj6AAa" ", 2032, 7540-061 Mortuarios" 1994-08-05 (84.6, 51.4) ;
+registar condutor "DomingosBrito@mail.google" "Domingos Brito" "DCg3mLI6" "Travessa Entre Quintas, 1669, 4400-137 Vila Nova de Gaia" 1994-02-25 16 ;
+registar condutor "DarcioPacheco@hotmail.com" "Darcio Pacheco" "pc6Wsg6p" "Rua da Ribeira, 1782, 5320-339 Vinhais" 2001-08-18 95"Time"  ;
+
+registar mota "42-JV-63" 40 "LucileineMendes@mail.google"  ;
+login "GianiSousa@mail.google"  "9hcicE4T" ;
+solicitar (63.9, 16.8);
+logout ;
+
+login "CarminaAlves@mail.google"  "LaKyME8e" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "LibertariaNeto@gmail.com" "Libertaria Neto" "76tb5S1m" "Rua da Bela Vista, 2009, 2500-565 Nadadouro" 2016-07-25 (73.1, 15.2) ;
+registar condutor "AnaisaAlmeida@outlook.com" "Anaisa Almeida" "RxIacyfw" "Rua do Lazareto, 2002, 9060-021 Funchal" 2011-09-22 68 ;
+registar condutor "NestorEsteves@sapo.pt" "Nestor Esteves" "qZHfXqGH" "Avenida Luisa Todi, 1814, 2900-459 Setubal" 2016-08-07 92"Lift"  ;
+
+registar carro "35-DM-16" 45 "HaroldoMartins@sapo.pt"  ;
+login "IdaliaAzevedo@outlook.com"  "LbKI1wvH" ;
+solicitar (28.6, 69.0);
+logout ;
+
+login "HernaniJesus@gmail.com"  "3RZ5iKR0" ;
+viajar ;
+logout ;
+
+
+registar cliente "StelaLeite@hotmail.com" "Stela Leite" "xrfh1l5A" "Rua da Autarquia, 2116, 4600-721 Salvador do Monte" 1992-08-19 (56.5, 47.3) ;
+registar condutor "DorianaAnjos@gmail.com" "Doriana Anjos" "eGIafrVD" ", 1255, 4940-701 Aldeia" 2007-08-19 19 ;
+registar condutor "CarmelitaCampos@hotmail.com" "Carmelita Campos" "nOhO5UaO" "Travessa do Alto do Moinho, 1108, 2565-554 Monte Redondo" 1990-08-15 14"UMer"  ;
+
+registar carrinha "17-WR-67" 13 "VivaldaMagalhaes@sapo.pt"  ;
+login "AntelmoLeal@gmail.com"  "kqm4MbVR" ;
+solicitar (69.6, 47.9);
+logout ;
+
+login "HaroldoMartins@sapo.pt"  "IbDr0ajV" ;
+viajar ;
+logout ;
+
+
+registar cliente "AnitaBranco@outlook.com" "Anita Branco" "uZudtYDv" "Rua de Sao Paulo, 423, 7350-160 Elvas" 1998-09-05 (98.9, 15.6) ;
+registar condutor "BebianoMelo@gmail.com" "Bebiano Melo" "F7Z9wRNk" "Rua Padre Antonio Vieira, 1595, 2870-009 Montijo" 1995-09-27 78 ;
+registar condutor "QuerubimMagalhaes@gmail.com" "Querubim Magalhaes" "2kAMXSko" "Rua Rio Tejo, 1591, 2975-151 Quinta do Conde" 1991-05-09 89"Baby Driver"  ;
+
+registar carrinha "37-NA-73" 79 "RonaldoGoncalves@outlook.com"  ;
+login "CrisanteFonseca@outlook.com"  "IG0JW8cP" ;
+solicitar (42.1, 58.2);
+logout ;
+
+login "RonaldoGoncalves@outlook.com"  "E2y01AgQ" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "SalvadordeJesusCoelho@outlook.com" "SalvadordeJesus Coelho" "uEhHNhZX" "Praceta do Almorzinho, 1084, 2655-477 Ericeira" 2010-05-18 (45.8, 17.7) ;
+registar condutor "AlexandrinoOliveira@mail.google" "Alexandrino Oliveira" "kwm1KwjM" ", 14, 3420-144 Tojais" 2001-10-17 18 ;
+registar condutor "AntonelaLima@hotmail.com" "Antonela Lima" "ZQw3qIaS" "Trelopenedo, 673, 4550-701 Real" 1991-06-17 18"Baby Driver"  ;
+
+registar carro "70-WK-26" 62 "FaniaMarques@outlook.com"  ;
+login "ElmaDomingues@gmail.com"  "itzFoLe8" ;
+solicitar (63.6, 99.2);
+logout ;
+
+login "SofiaLoureiro@sapo.pt"  "qE4o3q3q" ;
+viajar ;
+logout ;
+
+
+registar cliente "DeliaRocha@mail.google" "Delia Rocha" "5dG9D3PM" "Rua Sao Joao de Deus, 455, 7490-252 Mora" 1999-09-01 (49.3, 96.0) ;
+registar condutor "DuilioBrito@outlook.com" "Duilio Brito" "uZtELzzl" "Rua Avelar Brotero, 2022, 2670-419 Loures" 2013-11-21 52 ;
+registar condutor "HermanBatista@sapo.pt" "Herman Batista" "4NObRlNk" "Rua Emigrante, 1403, 3750-439 Fermentelos" 1993-04-21 2"Baby Driver"  ;
+
+registar helicoptero "77-RQ-60" 78 "SofiaLoureiro@sapo.pt"  ;
+login "ElmiraLopes@sapo.pt"  "QM3qVxbG" ;
+solicitar (52.2, 63.5);
+logout ;
+
+login "GislenaSimoes@mail.google"  "XBc1jjf4" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "GustavoFigueiredo@sapo.pt" "Gustavo Figueiredo" "d8fstsX8" "Rua da Liberdade, 1439, 2650-202 Amadora" 2001-09-07 (47.8, 97.5) ;
+registar condutor "DonzeliaCarvalho@outlook.com" "Donzelia Carvalho" "1cQvY3Ev" "Travessa Andrade Corvo, 2236, 4460-233 Senhora da Hora" 2005-04-05 61 ;
+registar condutor "TitaniaMartins@sapo.pt" "Titania Martins" "2wJA1CZx" ", 772, 3660-620 Macieira" 2001-05-07 32"Taxis VS Ubers"  ;
+
+registar mota "85-GK-30" 69 "GervasiaNunes@gmail.com"  ;
+login "IdaliaAzevedo@outlook.com"  "LbKI1wvH" ;
+solicitar (1.1, 64.1);
+logout ;
+
+login "VitalioPires@outlook.com"  "HYGosTIh" ;
+viajar ;
+logout ;
+
+
+registar cliente "BaraoRamos@mail.google" "Barao Ramos" "84ysCF9u" "Rua dos Eucaliptos, 532, 2645-527 Bicesse" 2002-10-09 (59.3, 94.6) ;
+registar condutor "elsioFreitas@mail.google" "elsio Freitas" "sCJmy0XT" "Rua 8 de Setembro, 157, 2810-264 Almada" 2010-07-06 77 ;
+registar condutor "SandrinoMaia@sapo.pt" "Sandrino Maia" "opMNWoY8" "Rua Mar a Vista, 2292, 2705-697 Magoito" 1994-04-14 77"Crazy Drivers"  ;
+
+registar mota "81-RT-23" 15 "SofiaLoureiro@sapo.pt"  ;
+login "ElmaDomingues@gmail.com"  "itzFoLe8" ;
+solicitar (98.3, 39.9);
+logout ;
+
+login "LeniaTeixeira@gmail.com"  "YlnwcjeQ" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "IgorNeves@gmail.com" "Igor Neves" "OArqQoLW" "Rua Faria Barbosa, 2153, 4750-672 Barcelos" 1991-08-02 (63.6, 72.5) ;
+registar condutor "LisanaRamos@hotmail.com" "Lisana Ramos" "z65GVenN" "Rua 9, 609, 2005-546 Grainho" 2009-12-16 68 ;
+registar condutor "BenevenutoGoncalves@mail.google" "Benevenuto Goncalves" "jOe8bQvW" "Quelha da Figueira, 1971, 4580-288 Besteiros" 2001-04-28 32"Lift"  ;
+
+registar mota "37-NA-73" 45 "JosabeteMoreira@mail.google"  ;
+login "FernandinaFernandes@hotmail.com"  "baBWCMLR" ;
+solicitar (91.5, 8.0);
+logout ;
+
+login "DurvalinaPacheco@hotmail.com"  "5FL3IwvJ" ;
+viajar ;
+logout ;
+
+
+registar cliente "HerminiaMachado@mail.google" "Herminia Machado" "uBbv2gxY" "Rua Jose Leiria Fernandes, 1906, 2670-398 Loures" 2016-06-28 (73.5, 65.1) ;
+registar condutor "AbdenagoMendes@outlook.com" "Abdenago Mendes" "UrLA6h4h" "Avenida Vasco da Gama, 386, 2865-153 Foros da Catrapona" 2015-06-05 85 ;
+registar condutor "AmaroFreitas@gmail.com" "Amaro Freitas" "88N3JXNA" "Travessa da Camusa, 1306, 4925-581 Perre" 1990-02-27 30"Wings"  ;
+
+registar helicoptero "87-CA-05" 38 "TassoPinto@sapo.pt"  ;
+login "TaisEsteves@sapo.pt"  "R33kSbVK" ;
+solicitar (97.1, 96.7);
+logout ;
+
+login "DieterDomingues@hotmail.com"  "caP0Xg7y" ;
+viajar ;
+logout ;
+
+
+registar cliente "ZubaidaNunes@gmail.com" "Zubaida Nunes" "FFj9ZXbU" "Rua Fonte do Gafo, 1446, 4415-816 Sandim" 1994-06-13 (75.9, 52.9) ;
+registar condutor "TrajanoLima@mail.google" "Trajano Lima" "t23rVvr9" ", 164, 8135-028 Cerro do Galo" 1996-12-28 0 ;
+registar condutor "ClaraAbreu@hotmail.com" "Clara Abreu" "q9ecd699" "Rua Francisco Sa Carneiro, 40, 2725-316 Mem Martins" 1995-01-02 35"Fast N Furious"  ;
+
+registar mota "09-LY-02" 75 "HernaniJesus@gmail.com"  ;
+login "SelesaSimoes@hotmail.com"  "jH3yedb7" ;
+solicitar (23.8, 32.9);
+logout ;
+
+login "LucileineMendes@mail.google"  "2TkEVc45" ;
+viajar ;
+logout ;
+
+
+registar cliente "NoelFerreira@mail.google" "Noel Ferreira" "eaEMT5jX" "Urbanizacao Cardal, 756, 3025-007 Coimbra" 1999-06-12 (57.0, 49.6) ;
+registar condutor "RubenMachado@sapo.pt" "Ruben Machado" "2bTDWBVp" "Urbanizacao do Topa, 1074, 8700-259 Pechao" 2008-03-26 12 ;
+registar condutor "LineuCorreia@mail.google" "Lineu Correia" "gyBk5dkM" "Praca Conselheiro Torres de Almeida, 1056, 4700-313 Braga" 2001-06-07 51"UMer"  ;
+
+registar carro "08-TP-78" 30 "SalmaFreitas@hotmail.com"  ;
+login "DjamilaTeixeira@mail.google"  "Im1P6OzA" ;
+solicitar (52.6, 36.0);
+logout ;
+
+login "CarminaAlves@mail.google"  "LaKyME8e" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "HaroldaMarques@hotmail.com" "Harolda Marques" "MRumbGjk" "Rua Benvindo Lopes, 1677, 2870-732 Atalaia" 1990-01-08 (99.8, 52.3) ;
+registar condutor "SaulMachado@mail.google" "Saul Machado" "7MNeqTMY" ", 1403, 8600-069 Bensafrim" 2013-06-03 78 ;
+registar condutor "AramisVaz@sapo.pt" "Aramis Vaz" "wx6TowNl" "Rua Comendador Carlos Kullberg, 358, 2710-012 Abrunheira" 2010-12-07 83"Taxistas"  ;
+
+registar mota "85-GK-30" 27 "DonzeliaCarvalho@outlook.com"  ;
+login "GracianaRodrigues@hotmail.com"  "JRM2H1rU" ;
+solicitar (79.8, 42.6);
+logout ;
+
+login "AnaisaAlmeida@outlook.com"  "RxIacyfw" ;
+viajar ;
+logout ;
+
+
+registar cliente "CeresMaia@mail.google" "Ceres Maia" "xDoPKGM4" "Rua Vicente Borga, 1927, 1200-861 Lisboa" 1994-02-22 (27.2, 54.7) ;
+registar condutor "AldoraMota@gmail.com" "Aldora Mota" "lde1IurN" "Rua do Outeiro, 1812, 4560-027 Abragao" 2013-07-03 32 ;
+registar condutor "IldoRamos@outlook.com" "Ildo Ramos" "afvrqQff" "Volta do Gaio, 786, 8125-544 Vilamoura" 1990-01-09 19"Crazy Drivers"  ;
+
+registar carrinha "23-PM-45" 50 "AbdenagoMendes@outlook.com"  ;
+login "SelesaSimoes@hotmail.com"  "jH3yedb7" ;
+solicitar (32.9, 56.1);
+logout ;
+
+login "SimauraMagalhaes@sapo.pt"  "HOjHVPFL" ;
+viajar ;
+logout ;
+
+
+registar cliente "JasaoMoura@sapo.pt" "Jasao Moura" "TLo2AUgB" "Praca Doutor Jaime de Magalhaes Lima, 927, 3800-762 Eixo" 2008-02-10 (38.3, 94.0) ;
+registar condutor "DeolindoNascimento@mail.google" "Deolindo Nascimento" "eVbNhpPr" "Avenida do Mosteiro, 1087, 4720-626 Rendufe" 1995-06-22 38 ;
+registar condutor "SimeaoMonteiro@mail.google" "Simeao Monteiro" "r32GoKWX" "Travessa de Mesao Frio, 937, 4575-573 Valpedre" 2002-07-22 36"GeTit"  ;
+
+registar helicoptero "75-MR-25" 80 "SalmaFreitas@hotmail.com"  ;
+login "AngelinaMaia@mail.google"  "bOoJtNBd" ;
+solicitar (53.4, 14.6);
+logout ;
+
+login "AlvarimRamos@hotmail.com"  "02vpioha" ;
+viajar ;
+logout ;
+
+
+registar cliente "CarmimSilva@mail.google" "Carmim Silva" "zn0SY5ZK" "Rua Arquiteto Januario Godinho, 685, 3880-517 Valega" 1990-06-11 (34.9, 26.4) ;
+registar condutor "IsaldaPacheco@gmail.com" "Isalda Pacheco" "2mkqSgWz" "Avenida dos Combatentes da Grande Guerra, 1735, 4900-563 Viana do Castelo" 2011-01-13 59 ;
+registar condutor "SusiSilva@sapo.pt" "Susi Silva" "CZYLh3IN" "Rua do Antigo Cemiterio, 2273, 5210-284 Povoa" 2009-02-06 76"Lift"  ;
+
+registar carrinha "22-HB-76" 56 "GrimanesaDomingues@outlook.com"  ;
+login "DjamilaTeixeira@mail.google"  "Im1P6OzA" ;
+solicitar (73.0, 71.8);
+logout ;
+
+login "IreneiaAlmeida@outlook.com"  "WxzaDk8c" ;
+viajar ;
+logout ;
+
+
+registar cliente "JoaninhaCoelho@outlook.com" "Joaninha Coelho" "uZ0JN9Ps" "Rua Jose Carlos Ary dos Santos, 723, 2840-248 Cavaquinhas" 2013-05-14 (23.6, 4.4) ;
+registar condutor "AngelitaMartins@outlook.com" "Angelita Martins" "BdH6OgQv" "Largo Joao Pereira Ruivo, 1973, 3520-060 Nelas" 2012-08-24 21 ;
+registar condutor "CarmelindaCoelho@outlook.com" "Carmelinda Coelho" "X6Fme6nC" "Praceta Armando Pulquerio, 1166, 2040-400 Rio Maior" 2012-09-09 36"UMer"  ;
+
+registar carro "65-PI-14" 44 "VilmaMoreira@outlook.com"  ;
+login "NairGoncalves@outlook.com"  "J6XGiCyk" ;
+solicitar (60.9, 50.7);
+logout ;
+
+login "DuilioBrito@outlook.com"  "uZtELzzl" ;
+viajar ;
+logout ;
+
+
+registar cliente "LindorfoNunes@sapo.pt" "Lindorfo Nunes" "2iARMFmk" "Estrada de Telheiras, 278, 1600-771 Lisboa" 1993-01-09 (26.4, 8.5) ;
+registar condutor "AndresaOliveira@gmail.com" "Andresa Oliveira" "phdKLQPe" ", 2362, 4600-758 Aveleira" 1995-08-05 37 ;
+registar condutor "YolandaGuerreiro@hotmail.com" "Yolanda Guerreiro" "45oWpTWA" "Rua Raul Pinto Pereira, 1194, 6270-268 Sao Romao" 2006-07-21 1"On Time"  ;
+
+registar carrinha "95-WW-49" 5 "CristoforoValente@hotmail.com"  ;
+login "SalvadordeJesusCoelho@outlook.com"  "uEhHNhZX" ;
+solicitar (89.1, 48.9);
+logout ;
+
+login "SaulaNascimento@hotmail.com"  "OfzKIzM4" ;
+viajar ;
+logout ;
+
+
+registar cliente "LiberalinaMacedo@hotmail.com" "Liberalina Macedo" "XcWeMP14" "Travessa de Remonde, 972, 4625-173 Magrelos" 2010-12-06 (41.2, 57.7) ;
+registar condutor "LeontinaGoncalves@outlook.com" "Leontina Goncalves" "Vw6r2WEH" "Rua da Salgueira, 917, 4410-402 Arcozelo" 2003-10-12 21 ;
+registar condutor "CloeRodrigues@sapo.pt" "Cloe Rodrigues" "opcjA87R" "Rua da Poca, 573, 4775-263 Viatodos" 2006-12-20 81"Time"  ;
+
+registar carro "23-PM-45" 60 "EstevaoGaspar@outlook.com"  ;
+login "EDNEYAssuncao@sapo.pt"  "NZnqMTpx" ;
+solicitar (52.9, 61.9);
+logout ;
+
+login "MicheleMacedo@sapo.pt"  "QGAvAywF" ;
+viajar ;
+logout ;
+
+
+registar cliente "LiviaCoelho@sapo.pt" "Livia Coelho" "87BCZPI4" "Avenida Marechal Sa da Bandeira, 1976, 2720-363 Amadora" 2001-05-25 (36.4, 35.2) ;
+registar condutor "MarciaGarcia@outlook.com" "Marcia Garcia" "zaDWfvsY" "Rua Projectada a Rua 5 de Outubro, 2020, 2710-062 Abrunheira" 2010-07-17 39 ;
+registar condutor "LuceliaMoreira@sapo.pt" "Lucelia Moreira" "ruM0Nr1Q" "Rua Armando Almeida Fernandes, 261, 4900-001 Viana do Castelo" 1998-12-03 20"UMer"  ;
+
+registar helicoptero "25-GY-37" 86 "TerezinhaFerreira@hotmail.com"  ;
+login "ArcelioLeite@mail.google"  "MPXyQK98" ;
+solicitar (64.9, 94.2);
+logout ;
+
+login "HaroldoMartins@sapo.pt"  "IbDr0ajV" ;
+viajar ;
+logout ;
+
+
+registar cliente "RosalinaSoares@hotmail.com" "Rosalina Soares" "HRckMhwj" "Rua Barbosa Du Bocage, 2356, 2865-754 Fernao Ferro" 2016-08-05 (42.4, 82.3) ;
+registar condutor "ArmenioPires@sapo.pt" "Armenio Pires" "Swx82JVC" "Rua da Andorinha, 516, 8135-023 Garrao" 2006-02-05 41 ;
+registar condutor "AmavelAzevedo@outlook.com" "Amavel Azevedo" "thF9NuFv" "Praceta de Alvalade, 1805, 2805-314 Almada" 2013-10-20 66"Fast N Furious"  ;
+
+registar carro "44-QQ-80" 63 "TrajanoLima@mail.google"  ;
+login "MarcosPinheiro@sapo.pt"  "G7pdRWlX" ;
+solicitar (14.9, 45.2);
+logout ;
+
+login "JoelaAbreu@outlook.com"  "hmuZqFmI" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "EmaAssuncao@gmail.com" "Ema Assuncao" "D0nlMqEu" "Rua Antero de Quental, 1065, 3505-570 Viseu" 2003-07-21 (3.2, 65.5) ;
+registar condutor "IndiaBorges@mail.google" "India Borges" "hpHhKcRj" ", 2440, 7570-433 Cardela do Meio" 2001-06-09 70 ;
+registar condutor "LeonildaGomes@outlook.com" "Leonilda Gomes" "B8E2qt8u" "Calcada da Liberdade, 891, 2695-785 Sao Joao da Talha" 2003-05-06 63"Taxistas"  ;
+
+registar carrinha "53-MB-92" 13 "IreneiaAlmeida@outlook.com"  ;
+login "EDNEYAssuncao@sapo.pt"  "NZnqMTpx" ;
+solicitar (15.4, 8.8);
+logout ;
+
+login "AnunciacaoMendes@sapo.pt"  "q8lPiB8l" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "CelsoEsteves@hotmail.com" "Celso Esteves" "ckv9XaOU" ", 2065, 9225-220 Referta" 2002-01-19 (97.2, 49.0) ;
+registar condutor "ArmelimMoura@hotmail.com" "Armelim Moura" "krNCZBjV" "Travessa das iris, 1378, 2845-139 Cruz de Pau" 1998-11-27 39 ;
+registar condutor "TirsoCardoso@hotmail.com" "Tirso Cardoso" "MXHcgLAD" "Travessa do Lago Discount 5, 1530, 4760-673 Ribeirao" 2002-02-05 29"Taxistas"  ;
+
+registar carro "46-WH-72" 92 "DeolindoNascimento@mail.google"  ;
+login "OrianaRibeiro@mail.google"  "jQIZVvvf" ;
+solicitar (66.8, 27.4);
+logout ;
+
+login "AmadorValente@mail.google"  "yMRHPSzY" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "CleliaGomes@sapo.pt" "Clelia Gomes" "dJet7WjM" "Travessa da Calcada, 142, 2430-146 Guarda Nova" 1993-12-24 (25.6, 60.1) ;
+registar condutor "FlorisbelaCampos@gmail.com" "Florisbela Campos" "xQX41szK" "Praceta de Sao Pedro, 2163, 2480-301 Porto de Mos" 2003-06-11 66 ;
+registar condutor "UrielCarneiro@mail.google" "Uriel Carneiro" "lA0b81nG" "Caminho dos Lavadouros, 1980, 4755-048 Areias de Vilar" 2007-08-25 9"Taxistas"  ;
+
+registar carro "06-FE-20" 82 "CarminaAlves@mail.google"  ;
+login "ElmaDomingues@gmail.com"  "itzFoLe8" ;
+solicitar (83.3, 42.9);
+logout ;
+
+login "GabinioMatos@gmail.com"  "QXjxwSUm" ;
+viajar ;
+logout ;
+
+
+registar cliente "AngelicaSimoes@gmail.com" "Angelica Simoes" "8x5JLczd" "Rua dos Moleiros, 1926, 2435-660 Seica" 2013-06-21 (46.7, 89.0) ;
+registar condutor "SuriaBorges@mail.google" "Suria Borges" "Sun1NaPd" "Rua do Vale D'Este, 867, 4710-048 Braga" 1997-08-24 80 ;
+registar condutor "SeomaraBarros@outlook.com" "Seomara Barros" "O77xvqTD" "Rua do Outeiro, 729, 4775-110 Grimancelos" 2000-04-15 6"Crazy Drivers"  ;
+
+registar mota "48-EL-13" 77 "ederValente@outlook.com"  ;
+login "SivioRodrigues@gmail.com"  "DSBoCe2H" ;
+solicitar (95.7, 51.6);
+logout ;
+
+login "TorquatoGuerreiro@outlook.com"  "39fizYTK" ;
+viajar ;
+logout ;
+
+
+registar cliente "AdaliaEsteves@mail.google" "Adalia Esteves" "0FuR5KWL" "Vereda 2 da Rua Goncalo Velho Cabral, 1996, 4400-631 Vila Nova de Gaia" 1991-07-21 (37.8, 59.2) ;
+registar condutor "ReinamorCastro@mail.google" "Reinamor Castro" "SQQt6eJA" "Travessa da Piedade, 2212, 4650-717 Varziela" 2012-12-25 85 ;
+registar condutor "ZoraidaRibeiro@gmail.com" "Zoraida Ribeiro" "n8bL4u6h" "Rua da Aldeia Nova, 683, 4510-003 Jovim" 2012-02-17 44"Taxistas"  ;
+
+registar carro "42-JV-63" 95 "AlexandrinoOliveira@mail.google"  ;
+login "BaraoRamos@mail.google"  "84ysCF9u" ;
+solicitar (25.5, 94.3);
+logout ;
+
+login "IsaldaPacheco@gmail.com"  "2mkqSgWz" ;
+viajar ;
+logout ;
+
+
+registar cliente "AlvarinaBaptista@mail.google" "Alvarina Baptista" "CoiEH8zH" ", 635, 8100-201 Renda" 2014-06-09 (74.0, 7.1) ;
+registar condutor "NunoGarcia@outlook.com" "Nuno Garcia" "0V4XXPlW" "Rua Joao Evangelista, 2381, 6000-240 Castelo Branco" 2007-11-04 50 ;
+registar condutor "SiddarthaEsteves@outlook.com" "Siddartha Esteves" "r44aIeme" "Rua de Oliveiras, 590, 4405-889 Vila Nova de Gaia" 1995-02-21 16"Crazy Drivers"  ;
+
+registar helicoptero "55-YA-47" 62 "DomingosBrito@mail.google"  ;
+login "FernandinaFernandes@hotmail.com"  "baBWCMLR" ;
+solicitar (52.4, 42.4);
+logout ;
+
+login "AbelDomingues@sapo.pt"  "qCbxXCQN" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "TeresinaLopes@outlook.com" "Teresina Lopes" "IbPjkTWf" ", 480, 7580-506 Arneiro" 2002-09-04 (71.5, 32.5) ;
+registar condutor "BetiaRodrigues@hotmail.com" "Betia Rodrigues" "ApGu64kY" ", 196, 4850-024 Fundevila" 2015-08-14 53 ;
+registar condutor "LarissaMorais@gmail.com" "Larissa Morais" "zI24xlT7" "Rua do Chafariz, 1812, 6000-020 Benquerencas" 1994-05-15 29"Crazy Drivers"  ;
+
+registar mota "35-DM-16" 21 "DomingosBrito@mail.google"  ;
+login "AgostinhoMaia@outlook.com"  "vlTjbTzH" ;
+solicitar (92.0, 31.1);
+logout ;
+
+login "FaniaMarques@outlook.com"  "V8tC9Ocn" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "LisSilva@hotmail.com" "Lis Silva" "wKaGQI9z" "Largo de Sao Jose, 960, 3500-234 Sao Joao de Lourosa" 1993-12-13 (90.1, 62.0) ;
+registar condutor "JonatasHenriques@mail.google" "Jonatas Henriques" "xpTMRclI" "Travessa do Platano, 192, 3025-103 Coimbra" 1991-08-14 74 ;
+registar condutor "IsabelaBranco@sapo.pt" "Isabela Branco" "pA1CxnYd" "Rua Fernao Lourenco, 1956, 2800-071 Almada" 2012-03-01 33"Fast N Furious"  ;
+
+registar carro "19-BW-97" 29 "CandiceFigueiredo@outlook.com"  ;
+login "AntelmoLeal@gmail.com"  "kqm4MbVR" ;
+solicitar (24.7, 16.4);
+logout ;
+
+login "GervasiaNunes@gmail.com"  "5axYaRTa" ;
+viajar ;
+logout ;
+
+
+registar cliente "LisetaCorreia@mail.google" "Liseta Correia" "I4q8THtU" "Rua de Santa Marta, 226, 4705-341 Braga" 2015-10-27 (30.3, 27.3) ;
+registar condutor "SamaraEsteves@sapo.pt" "Samara Esteves" "T3Nxpn3b" "Beco do Brasil, 1923, 2445-438 Pisoes" 1995-04-05 13 ;
+registar condutor "KatieLopes@mail.google" "Katie Lopes" "dK5ThEJT" "Travessa da Costinha, 606, 4850-369 Salamonde" 2010-10-10 5"Lift"  ;
+
+registar carro "03-BF-64" 65 "DuilioBrito@outlook.com"  ;
+login "JoaninhaCoelho@outlook.com"  "uZ0JN9Ps" ;
+solicitar (39.5, 73.0);
+logout ;
+
+login "PaulaValente@mail.google"  "unYYQVuV" ;
+viajar ;
+logout ;
+
+
+registar cliente "JordanaSilva@mail.google" "Jordana Silva" "W5IaGgaz" "Rua da Esperanca, 1143, 2660-012 Frielas" 2010-12-02 (59.8, 68.2) ;
+registar condutor "SansaoAnjos@outlook.com" "Sansao Anjos" "P6JtP0ol" "Rua de Santa Filomena, 2301, 9760-303 Lajes" 2001-12-14 70 ;
+registar condutor "LilianoCosta@outlook.com" "Liliano Costa" "zX6wIWfk" "Travessa do Emissario, 575, 6060-353 Penha Garcia" 1991-05-24 36"On Time"  ;
+
+registar carro "58-DV-81" 37 "GuislenaFonseca@hotmail.com"  ;
+login "DorindoDomingues@sapo.pt"  "dKK7MuJU" ;
+solicitar (80.7, 58.6);
+logout ;
+
+login "DeolindoNascimento@mail.google"  "eVbNhpPr" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "AlexaBatista@sapo.pt" "Alexa Batista" "5JbHDywj" "Rotunda Avenida Doutor Francisco Sa Carneiro, 354, 4560-162 Guilhufe" 2000-10-01 (83.8, 85.7) ;
+registar condutor "ulpioAlmeida@hotmail.com" "ulpio Almeida" "9MBD3AOf" "Rua Eduardo Gago Machado Faria e Maia, 288, 9560-098 Lagoa" 1992-12-02 86 ;
+registar condutor "ManuelaAraujo@outlook.com" "Manuela Araujo" "NBPjxJvV" "Travessa Longras, 1509, 4510-313 Sao Pedro da Cova" 2009-07-22 26"Time"  ;
+
+registar helicoptero "04-LS-27" 68 "GislenaSimoes@mail.google"  ;
+login "CelsoEsteves@hotmail.com"  "ckv9XaOU" ;
+solicitar (77.0, 1.1);
+logout ;
+
+login "DorineAndrade@gmail.com"  "jW4BjERf" ;
+viajar ;
+logout ;
+
+
+registar cliente "LeobertoAmaral@gmail.com" "Leoberto Amaral" "0nD1GxaJ" ", 256, 3505-216 Quinta do Saltadouro" 2011-04-24 (24.3, 94.3) ;
+registar condutor "HermanoVicente@outlook.com" "Hermano Vicente" "PEGPn7QF" "Estrada da Circunvalacao, 180, 1800-136 Lisboa" 1994-04-07 76 ;
+registar condutor "DulcineiaNeves@outlook.com" "Dulcineia Neves" "5hleB5zb" "Rua da Moagem, 522, 2640-377 Igreja Nova" 1996-12-09 79"On Time"  ;
+
+registar mota "76-IJ-18" 54 "LisanaRamos@hotmail.com"  ;
+login "IgelceminaSantos@hotmail.com"  "S7cyJnxU" ;
+solicitar (96.3, 68.5);
+logout ;
+
+login "BetiaRodrigues@hotmail.com"  "ApGu64kY" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "IolandaBarros@hotmail.com" "Iolanda Barros" "X7tulsWW" "Rua dos Argonautas, 2194, 1990-014 Lisboa" 2005-01-10 (45.9, 47.0) ;
+registar condutor "AaraoPacheco@hotmail.com" "Aarao Pacheco" "mKSfIhlC" "Travessa Nossa Senhora das Dores, 1848, 4500-663 Espinho" 2001-10-20 9 ;
+registar condutor "JanuarioMarques@mail.google" "Januario Marques" "8pK0HIIL" "Travessa da Brejinha, 1771, 2640-419 Mafra" 2008-08-28 48"Crazy Drivers"  ;
+
+registar mota "03-BF-64" 90 "UrbalinaFigueiredo@mail.google"  ;
+login "AlineDomingues@outlook.com"  "T9gyGbfo" ;
+solicitar (1.3, 77.8);
+logout ;
+
+login "SaulMachado@mail.google"  "7MNeqTMY" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "AndriaFernandes@sapo.pt" "Andria Fernandes" "2abqWio3" "Rua Almirante Pinheiro de Azevedo, 823, 8500-556 Portimao" 1993-01-01 (76.5, 74.5) ;
+registar condutor "ElsaTeixeira@hotmail.com" "Elsa Teixeira" "JVQ7AkvV" "Travessa da Sardanisca, 879, 4510-468 Fanzeres" 1999-12-05 78 ;
+registar condutor "FilomenoMagalhaes@gmail.com" "Filomeno Magalhaes" "DZNW1D0U" "Rua do Estadio, 1114, 3505-563 Viseu" 2006-04-15 29"Taxis VS Ubers"  ;
+
+registar carro "08-TP-78" 93 "SaulMachado@mail.google"  ;
+login "AdaliaEsteves@mail.google"  "0FuR5KWL" ;
+solicitar (96.2, 5.0);
+logout ;
+
+login "TerezinhaFerreira@hotmail.com"  "MFnseQgE" ;
+viajar ;
+logout ;
+
+
+registar cliente "JaquesBatista@mail.google" "Jaques Batista" "gM8zSWmM" "Rua Irmaos Bandeira, 1046, 3330-320 Gois" 2003-07-21 (34.7, 79.9) ;
+registar condutor "RebecaFreitas@outlook.com" "Rebeca Freitas" "c7n2SwjM" "Rua A, 1656, 2705-647 Magoito" 1990-05-10 49 ;
+registar condutor "AusendaPacheco@outlook.com" "Ausenda Pacheco" "GHVbomnD" "Rua Pinto Peixoto, 261, 6300-355 Guarda" 2001-12-25 7"UMer"  ;
+
+registar carrinha "15-DR-04" 22 "DeolindoNascimento@mail.google"  ;
+login "HonorinaLima@outlook.com"  "0RpI3sfi" ;
+solicitar (87.4, 50.9);
+logout ;
+
+login "LeniaTeixeira@gmail.com"  "YlnwcjeQ" ;
+viajar ;
+logout ;
+
+
+registar cliente "TicianaMaia@hotmail.com" "Ticiana Maia" "aMqpphwe" ", 440, 5160-111 Quinta Branca" 1993-04-05 (33.6, 54.4) ;
+registar condutor "NadineCoelho@mail.google" "Nadine Coelho" "wgY284CC" ", 2262, 5445-093 Friande" 2012-01-08 73 ;
+registar condutor "ViniciaEsteves@outlook.com" "Vinicia Esteves" "8MdJV1bT" ", 1391, 8150-038 Fonte Velha" 2014-12-07 73"Lift"  ;
+
+registar carro "44-QQ-80" 78 "CatiaCorreia@hotmail.com"  ;
+login "CrisanteFonseca@outlook.com"  "IG0JW8cP" ;
+solicitar (34.9, 52.5);
+logout ;
+
+login "FlorisbelaCampos@gmail.com"  "xQX41szK" ;
+recusar viagem ;
+logout ;
+
+
+registar cliente "SantelmoAbreu@mail.google" "Santelmo Abreu" "9RqfI1Ta" "Canada da Mata, 1805, 9800-427 Urzelina" 2016-10-22 (28.0, 60.2) ;
+registar condutor "UzielNeves@outlook.com" "Uziel Neves" "u9egL7pl" "Rua Cruz das Almas, 768, 3620-501 Arcas" 2010-04-14 31 ;
+registar condutor "AdiliaCunha@gmail.com" "Adilia Cunha" "Uj0cgl56" "Largo do Alecrim, 778, 2560-259 Torres Vedras" 2002-05-05 12"Wings"  ;
+
+registar carrinha "14-HN-46" 21 "UzielNeves@outlook.com"  ;
+login "AndriaFernandes@sapo.pt"  "2abqWio3" ;
+solicitar (38.9, 20.3);
+logout ;
+
+login "UrbalinoCampos@sapo.pt"  "XtjrdqDH" ;
+recusar viagem ;
+logout ;
+
+
